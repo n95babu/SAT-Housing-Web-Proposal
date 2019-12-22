@@ -2,9 +2,10 @@
   "name": "second-atlantic-terminal",
   "version": "1.0.0",
   "description": "SAT Housing",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "AIL Team",
   "license": "ISC",

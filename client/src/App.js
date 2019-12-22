@@ -5,7 +5,7 @@ import './App.css';
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <div className='App'>
         <h1>This is App.js</h1>
       </div>
     )
