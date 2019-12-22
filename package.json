@@ -1,0 +1,14 @@
+{
+  "name": "second-atlantic-terminal",
+  "version": "1.0.0",
+  "description": "SAT Housing",
+  "main": "index.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "AIL Team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
