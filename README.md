@@ -11,8 +11,9 @@
   * express
   * morgan
   * nodemon
-  * pg
-  * sequelize
+  * mongod
+  * mongoose
+ 
 
 * Authentication
   * bcrypt
