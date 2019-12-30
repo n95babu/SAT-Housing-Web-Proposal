@@ -1,0 +1,30 @@
+.header {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  padding: 0;
+}
+
+#header-logo {
+  float: left;
+}
+
+#header-logo img {
+  max-width: 120px;
+}
+
+#header-nav {
+  float: right;
+}
+
+#header-nav li {
+  display: inline;
+  margin: 0 15px;
+}
+
+#header-nav a {
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+}
